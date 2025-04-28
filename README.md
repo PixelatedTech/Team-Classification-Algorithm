@@ -1,4 +1,4 @@
-# TeamFormationOptimizer
+# Team Classification Algorithm
 A scalable Python algorithm designed to form diverse and balanced student teams for large datasets.
 
 Instead of random groupings, this project ensures every team benefits from a strategic blend of key diversity factors like gender, CGPA, and school affiliation.
